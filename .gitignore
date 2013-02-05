@@ -1,0 +1,4 @@
+build/*
+figs/*-eps-converted-*
+*.sublime-workspace
+talk.tex
